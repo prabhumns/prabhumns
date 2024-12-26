@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have been working as a Software Developer for more than 2 years. In this time, I worked in multiple projects in the Fin-Tech area.<br>I have designed and developed multiple Cloud native applications. Maintained infrastructure and applications using IaC code and CI/CD pipelines.
+I have been working as a Full Stack Software Developer since August 2020. I have experience building Web applications in AWS, Azure and On Prem Systems. I worked with Java, Python, Typescript/JavaScript, Scala etc.<br>I have designed and developed multiple Cloud native applications. Maintained infrastructure and applications using IaC code and CI/CD pipelines.
 
 
 ## 🌐 Socials:
